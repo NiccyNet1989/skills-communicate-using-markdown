@@ -1,1 +1,3 @@
 # This is an h1 header, which is the largest
+![AbbyCorn and Froot Loops Unicorn Lying on Bed](https://github.com/NiccyNet1989/skills-communicate-using-markdown/assets/143370847/c684e539-4141-4a02-b810-ed8dafc854d1)
+[This is alt text, created by putting text inside square brackets. It is supposed to be more accessible, read aloud for people with screen readers, and to be shown at times when the image doesn't display due to issues such as poor connection. As you can see above, we have an image of a Baby Unicorn and a Froot Loops Unicorn]
