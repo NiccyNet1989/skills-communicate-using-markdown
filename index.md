@@ -9,3 +9,9 @@ Remember, this is not functional code, just an example of some code that you are
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+Let's also make a task list!
+
+- [ ] Find more photos of baby animals
+- [x] Add these photos to this repository
+- [ ] Possibly make wallpaper...
